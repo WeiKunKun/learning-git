@@ -1,2 +1,3 @@
 #this a repo for learning git
-China
+I'm from China.
+I'm Chinese.
