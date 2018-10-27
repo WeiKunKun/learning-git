@@ -4,3 +4,4 @@ git commit:
 Name: Wei Fukun
 univercity: cuit and uestc
 git add
+git push
