@@ -1,6 +1,7 @@
 1
-git commit:
 #a new file
 Name: Wei Fukun
 univercity: cuit and uestc
 git add
+git commit
+git push
