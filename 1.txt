@@ -2,3 +2,4 @@
 #a new file
 Name: Wei Fukun
 univercity: cuit and uestc
+git add
