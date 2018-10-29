@@ -1,3 +1,4 @@
 1
-#a new file
+#a new file:
 branch: dev
+master
